@@ -1,0 +1,57 @@
+.image1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    margin-left: 20px;
+  }
+  .image2{
+      height:200px;
+      width: 200px;
+      border-radius: 30px;
+      margin-left: 20px;
+
+  }
+  .image3{
+      height: 200px;
+      width: 200px;
+      border-radius: 50px;
+      margin-left: 20px;
+  }
+  .para{
+      height: 400px;
+      background-image: url("../../assets/milky-way.jpeg");
+      text-align: center;
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+   .para p{
+    font-size: 35px;
+    margin-top: 0px;
+  }
+  #image1{
+      text-align: center;
+      text-decoration: underline;
+      color: rgba(255, 123, 0, 0.562);
+      font-weight: bold;
+  }
+  #image2{
+      text-align: center;
+  }
+  #image3{
+      text-align: center;
+      text-decoration: underline;
+      color: rgba(255, 123, 0, 0.562);
+      font-weight: bold;
+  }
+  #image4{
+      text-align: center;
+  }
+  #image5{
+      text-decoration: underline;
+      text-align: center;
+      color: rgba(255, 123, 0, 0.562);
+      font-weight: bold;
+  }
+  #image6{
+      text-align: center;
+  }
